@@ -1,0 +1,9 @@
+-dsannotations: *
+
+Bundle-Name: dashboard-rest
+Bundle-SymbolicName: com.engine.dashboard.rest
+Bundle-Version: 1.0.0
+
+Import-Package: \
+  org.osgi.framework; version="[1.7,2)", \
+  *

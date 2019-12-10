@@ -1,0 +1,7 @@
+Bundle-Name: database-api
+Bundle-SymbolicName: com.database.api
+Bundle-Version: 1.0.0
+
+Export-Package: \
+	com.database.crud.api,\
+	com.database.dto
